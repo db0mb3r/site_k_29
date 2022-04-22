@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #42aaff;
+}
+
+/*.profile {
+	width: 100%;
+	height: 25%;
+	background: #42aaff;
+}*/
+
+.logo {
+	float: left;
+}
+
+.profile h4 {
+	float: left;
+	margin: 12px auto auto auto;
+	color: white;
+}
+
+.profile a {
+	float: right;
+	margin: 11px 50px auto 10px;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: sans-serif;
+	color: white;
+}
+
+.profile img {
+	float: right;
+	margin-top: 7px;
+}
